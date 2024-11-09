@@ -1,7 +1,7 @@
 # Procurement Analysis Dashboard
 
 ## Overview
-The **Procurement Analysis Dashboard** is an interactive data analysis tool built using **Streamlit** that provides comprehensive insights into procurement data. It helps procurement teams and analysts understand key metrics such as spend distribution, supplier performance, cost optimization, and project analysis. This dashboard facilitates data-driven decision-making by presenting detailed visualizations and metrics, enabling better procurement strategies and optimizations.
+The **Procurement Analysis Dashboard** is an interactive data analysis tool that provides comprehensive insights into procurement data. It helps procurement teams and analysts understand key metrics such as spend distribution, supplier performance, cost optimization, and project analysis. This dashboard facilitates data-driven decision-making by presenting detailed visualizations and metrics, enabling better procurement strategies and optimizations.
 
 ## Main Features
 - **Spend Analysis**: Detailed breakdown of monthly and yearly spend trends, spend by supplier, category, and project.
